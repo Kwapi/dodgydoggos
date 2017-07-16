@@ -1,3 +1,3 @@
 $('img').click(function () {
-    alert('woof woof');
+    alert('bork bork');
 });
