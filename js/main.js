@@ -3,7 +3,7 @@ $('img').click(function () {
 
     // track everything / control everyone
     ga('send', {
-        hitType: 'click',
+        hitType: 'event',
         eventCategory: 'Doggo',
         eventAction: 'borked',
     });
