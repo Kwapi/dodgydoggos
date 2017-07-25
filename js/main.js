@@ -1,6 +1,7 @@
 $('img').click(function () {
-    alert('bork bork');
-
+    // alert('bork bork'); // og bork
+    alert('stay in school kids');
+    
     // track everything / control everyone
     ga('send', {
         hitType: 'event',
